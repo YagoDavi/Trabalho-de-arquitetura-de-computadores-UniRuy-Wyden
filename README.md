@@ -21,5 +21,5 @@ Com isso, espera-se que os discentes desenvolvam as habilidades de consultoria e
 
 3.	EQUIPE
 	
-Esse trabalho só foi possível devido ao trabalho em conjunto dos seguintes estudantes: Dimitrius Khouri Mariano dos Santos ( Repositório: https://github.com/DKMariano), Gabriella Mizrach Benevides (Repositório: https://github.com/GabriellaMizrach), Letícia Farias da Silva Souza (Repositório: insira aqui o link), Maria Julia Sousa de Aquino Goes( Repositório: insira aqui o link) e Yago Davi Cerqueira Nogueira (Repositório: https://github.com/Yagodavicng)
+Esse trabalho só foi possível devido ao trabalho em conjunto dos seguintes estudantes: Dimitrius Khouri Mariano dos Santos ( Repositório: https://github.com/DKMariano), Gabriella Mizrach Benevides (Repositório: https://github.com/GabriellaMizrach), Letícia Farias da Silva Souza (Repositório: insira aqui o link), Maria Julia Sousa de Aquino Goes(https://github.com/MajuGoes) e Yago Davi Cerqueira Nogueira (Repositório: https://github.com/Yagodavicng)
 
