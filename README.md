@@ -20,6 +20,6 @@ d.	Elaboração de um Quiz no Kahoot (https://create.kahoot.it/share/trabalho-de
 Com isso, espera-se que os discentes desenvolvam as habilidades de consultoria e comunicação, competências essenciais para sua formação acadêmica e profissional. 
 
 3.	EQUIPE
-4.	
+	
 Esse trabalho só foi possível devido ao trabalho em conjunto dos seguintes estudantes: Dimitrius Khouri Mariano dos Santos ( Repositório: https://github.com/DKMariano), Gabriella Mizrach Benevides (Repositório: https://github.com/GabriellaMizrach), Letícia Farias da Silva Souza (Repositório: insira aqui o link), Maria Julia Sousa de Aquino Goes( Repositório: insira aqui o link) e Yago Davi Cerqueira Nogueira (Repositório: https://github.com/Yagodavicng)
 
