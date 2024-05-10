@@ -1,5 +1,6 @@
 # Trabalho-de-arquitetura-de-computadores-UniRuy-Wyden
 1.	INTRODUÇÃO
+
 O presente trabalho foi proposto pelo professor Heleno Cardoso da Silva Filho que ministra aulas da disciplina Arquitetura de Computadores (ARA0039 / Turma 3001), no turno noturno da universidade Wydern -UniRuy, no dia 01 de abril de 2024. 
 Para realização dessa tarefa, os discentes da supramencionada disciplina serão divididos em equipes composta por, no máximo, 8 componentes. A metodologia do trabalho envolve o uso de diversas ferramentas digitais para explorar habilidades essenciais para a formação acadêmica e profissional dos membros de cada grupo.
 Inicialmente, as equipes elaborarão um Mapa Mental utilizando a ferramenta MindMaster. Neste mapa, serão apresentadas as vantagens de duas arquiteturas de notebooks diferentes que podem atender às necessidades de um cliente (fictício ou não) escolhido pelo grupo. Com base nessas informações, será apresentado a opção mais adequada para as demandas do cliente, desenvolvendo, assim, as habilidades de consultoria dos alunos de Arquitetura de Computadores
@@ -9,6 +10,7 @@ Por fim, cada membro da equipe criará uma conta no GitHub, informando seus nome
 Resta claro, portanto, que o intuito do presente trabalho é aplicar seus conhecimentos teóricos em atividades práticas e colaborativas, desenvolvendo habilidades de consultoria, comunicação e trabalho em equipe.
 
 2.	OBJETIVO
+
 O objetivo do presente trabalho é atender os requisitos proposto pelo professor Heleno Cardoso da Silva Filho que ministra aulas da disciplina Arquitetura de Computadores (ARA0039 / Turma 3001), no turno noturno da universidade Wydern -UniRuy, no dia 01 de Abril de 2024. 
 Para tanto, nossa equipe realizou as seguintes atividades:
 a.	Criação de um arquivo README contendo o nome e links do perfil de github de todos os membros do grupo.
@@ -18,5 +20,6 @@ d.	Elaboração de um Quiz no Kahoot (https://create.kahoot.it/share/trabalho-de
 Com isso, espera-se que os discentes desenvolvam as habilidades de consultoria e comunicação, competências essenciais para sua formação acadêmica e profissional. 
 
 3.	EQUIPE
+4.	
 Esse trabalho só foi possível devido ao trabalho em conjunto dos seguintes estudantes: Dimitrius Khouri Mariano dos Santos ( Repositório: https://github.com/DKMariano), Gabriella Mizrach Benevides (Repositório: https://github.com/GabriellaMizrach), Letícia Farias da Silva Souza (Repositório: insira aqui o link), Maria Julia Sousa de Aquino Goes( Repositório: insira aqui o link) e Yago Davi Cerqueira Nogueira (Repositório: https://github.com/Yagodavicng)
 
