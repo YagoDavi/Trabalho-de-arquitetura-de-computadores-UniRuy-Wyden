@@ -33,4 +33,4 @@ Esse trabalho só foi possível devido ao trabalho em conjunto dos seguintes est
 - Gabriella Mizrach Benevides ([Repositório](https://github.com/GabriellaMizrach))
 - Letícia Farias da Silva Souza ([Repositório](https://github.com/LettyFariias))
 - Maria Julia Sousa de Aquino Goes ([Repositório](https://github.com/MajuGoes))
-- Yago Davi Cerqueira Nogueira ([Repositório](https://github.com/Yagodavicng))
+- Yago Davi Cerqueira Nogueira ([Repositório](https://github.com/YagoDavi))
